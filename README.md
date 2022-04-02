@@ -7,6 +7,7 @@ Parallel implementation of sequence alignment with affine gap costs.
 ```
 git clone https://github.com/gsc74/ParSeqAl.git
 cd ParSeqAl
+make clean
 make
 ```
 
