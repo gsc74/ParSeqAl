@@ -23,5 +23,5 @@ make
 ![Alt text](SpeedUp.png?raw=true "Speed Up")
 >                                       Figure(2): Speedup v/s Threads.
 
-
+## Reference
 <b id="my_anchor">[1].</b> Parallel biological sequence comparison using prefix computations., [https://doi.org/10.1016/S0743-7315(03)00010-8](https://doi.org/10.1016/S0743-7315(03)00010-8)
