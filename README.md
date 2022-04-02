@@ -1,6 +1,7 @@
 # ParSeqAl
 ## Sequence Alignment with Parallel Prefix Sums
 
+
 ### Compiliation
 ```
 git clone https://github.com/gsc74/ParSeqAl.git
@@ -21,3 +22,6 @@ make
 ### Execution Time 
 ![Alt text](SpeedUp.png?raw=true "Speed Up")
 >                                       Figure(2): Speedup v/s Threads.
+
+
+<b id="my_anchor">[1].</b> Parallel biological sequence comparison using prefix computations., [https://doi.org/10.1016/S0743-7315(03)00010-8](doi)
