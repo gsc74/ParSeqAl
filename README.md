@@ -1,5 +1,6 @@
 # ParSeqAl
 ## Sequence Alignment with Parallel Prefix Sums
+Parallel implementation of sequence alignment with affine gap costs.
 
 
 ### Compiliation
