@@ -1,0 +1,7 @@
+ Reference : data/first
+ Query : data/second
+ Reference Length :26000
+ Query Length :16400
+ Sequetial Execution Time : 32944 milliseconds
+ Parallel Execution Time : 18117 milliseconds
+ Writed Results to data/aligned_out.csv 
