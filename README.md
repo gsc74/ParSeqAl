@@ -1,5 +1,17 @@
-# SeqAlParPrS
+# ParSeqAl
 ## Sequence Alignment with Parallel Prefix Sums
+
+### Compiliation
+```
+git clone https://github.com/gsc74/ParSeqAl.git
+cd ParSeqAl
+make
+```
+
+### Running
+```
+./bin/Prefix data/first data/second > log/log.txt 
+```
 
 ## Results
 ### Execution Time 
