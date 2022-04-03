@@ -13,7 +13,7 @@ make
 
 ### Running
 ```
-./bin/Prefix data/first data/second > log/log.txt 
+./bin/ParSeqAl data/first data/second > log/log.txt 
 ```
 
 ## Results
