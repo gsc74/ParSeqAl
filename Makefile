@@ -1,11 +1,11 @@
 CXX=g++ -std=c++17
 flag = -fopenmp
-all: bin/Prefix
+all: bin/ParSeqAl
 
-bin/Prefix: bin/Prefix.o
-	$(CXX) -o bin/Prefix bin/Prefix.o $(flag)
-bin/Prefix.o: src/Prefix.cpp
-	$(CXX) -o bin/Prefix.o -c src/Prefix.cpp $(flag)
+bin/ParSeqAl: bin/ParSeqAl.o
+	$(CXX) -o bin/ParSeqAl bin/ParSeqAl.o $(flag)
+bin/ParSeqAl.o: src/ParSeqAl.cpp
+	$(CXX) -o bin/ParSeqAl.o -c src/ParSeqAl.cpp $(flag)
 
 clean:
-	rm -rf bin/Prefix.o bin/Prefix data/aligned_out.csv
+	rm -rf bin/ParSeqAl.o bin/ParSeqAl data/aligned_out.csv
