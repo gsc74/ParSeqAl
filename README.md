@@ -13,6 +13,7 @@ make
 
 ### Running
 ```
+export OMP_NUM_THREADS=8
 ./bin/ParSeqAl data/first data/second > log/log.txt 
 ```
 
