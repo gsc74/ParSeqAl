@@ -22,7 +22,7 @@ export OMP_NUM_THREADS=8
 ![Alt text](ExecTime.png?raw=true "Execution Time (s)")
 >                                       Figure(1): Execution Time (s) v/s Threads.
 
-### Execution Time 
+### Speedup
 ![Alt text](SpeedUp.png?raw=true "Speed Up")
 >                                       Figure(2): Speedup v/s Threads.
 
